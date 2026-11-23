@@ -3671,6 +3671,10 @@
       "computer": "the computer",
       "otherDevice": "another device"
     },
+    "subagents": {
+      "noReply": "Ended without a reply",
+      "stoppedBeforeReply": "Stopped before replying"
+    },
     "subagentGroup": {
       "stateCompleted": "completed",
       "stateWorking": "working",
